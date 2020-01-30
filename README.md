@@ -1,12 +1,10 @@
-**SERVIDOR DE MINECRAFT**
-
 __Instalación del juego__
 
 1. Descargar TLauncher https://tlauncher.org/installer	
 
 2.1 (OPCIONAL) Crearse una cuenta de TLauncher para usar una skin personalizada https://tlauncher.org/en/reg/
 
- 2.2 Subir una skin https://tlauncher.org/my/, busca la que mas te guste en https://es.namemc.com/minecraft-skins
+ 2.2 (OPCIONAL) Subir una skin https://tlauncher.org/my/, busca la que mas te guste en https://es.namemc.com/minecraft-skins
 
 3. Instalar TLauncher
 
