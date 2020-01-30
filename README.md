@@ -14,7 +14,7 @@ __Instalación del juego__
 
 6. Inicia el juego y cierralo
 
-7. Descarga el archivo "Mods"
+7. Descarga el archivo "Mods" https://github.com/RubizZ/Servidor-de-Minecraft/blob/master/Mods.rar
 
 8. Copialo
 
