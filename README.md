@@ -14,7 +14,7 @@ __Instalación del juego__
 
 6. Inicia el juego y cierralo
 
-7. Descarga el archivo "Mods" https://mega.nz/#!sl9mnaBZ!FhfS0x8_vVEAsg1BANQdM5pS7MVOFSaUys472UkBoS0
+7. Descarga el archivo "Mods" https://mega.nz/#!JoNlkQ5R!SQYfLDNGjjtwjIqozZq0XjSprHkvZV-TQXig6iwfnks
 
 8. Copialo
 
