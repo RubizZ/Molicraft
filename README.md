@@ -10,6 +10,8 @@ __Instalación del juego__
 
 5. Darle a Ver paquetes de modificaciones y buscar Molicraft. Instalar el que te sale
 
+**SI ERES PREMIUM (TIENES COMPRADO EL JUEGO) SALTATE HASTA EL PASO 9**
+
 6. Dale clic derecho y darle a abrir carpeta, luego darle a la palabra minecraft (esta entre dos flechas) y luego a Install
 
 7. Borrar archivo "minecraft"
