@@ -2,7 +2,7 @@ __Instalación del juego__
 
 1. Descargar Twitch Desktop App https://www.twitch.tv/downloads
 
-2. Descargar launcher https://dl.hackphoenix.com/launcher/minecraft/64 (si no te funciona descarga este https://dl.hackphoenix.com/launcher/minecraft/32)
+2. (Si eres premium saltate este caso) Descargar launcher https://dl.hackphoenix.com/launcher/minecraft/64 (si no te funciona descarga este https://dl.hackphoenix.com/launcher/minecraft/32)
 
 3. Instalar Twitch
 
