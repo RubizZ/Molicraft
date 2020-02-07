@@ -3,6 +3,7 @@ __Instalación del juego__
 Enlaces de descarga
 
 · Premium (Juego comprado) https://www.technicpack.net/download
+
 · No premium (Juego no comprado) https://www.hackphoenix.com/technic-launcher/
 
 1. Descargar el archivo correspondiente arriba e iniciarlo
