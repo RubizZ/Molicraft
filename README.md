@@ -1,15 +1,19 @@
 __Instalación del juego__
 
-1. Descargar TLauncher https://tlauncher.org/installer	
+1. Descargar Twitch Desktop App https://www.twitch.tv/downloads
 
-2. Instalar TLauncher
+2. Descargar launcher https://dl.hackphoenix.com/launcher/minecraft/64 (si no te funciona descarga este https://dl.hackphoenix.com/launcher/minecraft/32)
 
-3. Si creaste una cuenta, inicia sesión marcando la casilla "Cuenta", si no simplemente pon tu username en el recuadro
+3. Instalar Twitch
 
-4. Pulsa sobre TLMods (al lado del botón amarillo)
+4. Iniciar sesion e ir a Modificaciones, pulsar sobre Minecraft, darle a Instalar
 
-5. En la barra de busqueda escribe "Molicraft"
+5. Darle a Ver paquetes de modificaciones y buscar Molicraft. Instalar el que te sale
 
-6. Dale a instalar al Modpack en el que pone Autor: Rubiz
+6. Dale clic derecho y darle a abrir carpeta, luego darle a la palabra minecraft (esta entre dos flechas) y luego a Install
 
-7. Dale a entrar al juego
+7. Borrar archivo "minecraft"
+
+8. Copiar el archivo descargado en el segundo paso, pegarlo en esa carpeta y renombrarlo a "minecraft"
+
+9. Iniciar el juego desde la pestaña de "Mis paquetes de modificaciones" en Twitch
